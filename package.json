@@ -31,7 +31,7 @@
     "require-directory": "^2.0.0"
   },
   "peerDependencies": {
-    "keystone": "^0.3.0"
+    "keystone": "^0.4.0"
   },
   "devDependencies": {
     "grunt-cli": "^1.2.0",
